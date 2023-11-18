@@ -1,2 +1,3 @@
 # Leetcode-Solutions
-Solutions with explanation to the leetcode problems I solve.
+This repository will document all the leetcode problems that I complete. 
+Currently working on the easy problems.
