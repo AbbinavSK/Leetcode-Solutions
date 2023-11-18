@@ -4,10 +4,10 @@ int differenceOfSums(int n, int m) {
     
     for(int i=0; i<=n; i++){
         if(i%m!=0){
-            num1 += 1;
+            num1 += i;
         }
         if(i%m==0){
-            num2 += 1;
+            num2 += i;
          }
     }
     return num1 - num2;
